@@ -10,9 +10,9 @@
 # 6. RFM Segmentlerinin Oluşturulması ve Analiz Edilmesi (Creating & Analysing RFM Segments)
 # 7. Tüm Sürecin Fonksiyonlaştırılması
 
-###############################################################
+#############################################################
 # 1. İş Problemi (Business Problem)
-###############################################################
+#############################################################
 
 # Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre
 # pazarlama stratejileri belirlemek istiyor.
